@@ -1,16 +1,5 @@
 # social_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Social app is contains make posts and chat with freind , I use in this project:
+State Mangement : Bloc , Dio , Firebase , Firestore , FCM , Dio , Image Picker.
+Features: OnBoarding Screen , Authentication , Home Feature , Chat Feature , Post Feature , Edit Profile.
